@@ -6,10 +6,10 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>0A805B8E-3377-4119-B96C-16E57E2CE6CA</key>
+		<key>1B7B569B-B09E-4EF6-ABA4-D83A246629A7</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3F06EDF6-FA4A-410F-A6DC-2837F8DD82CD</string>
+			<string>DDAB2E49-8D83-40F9-9A77-B9AB0323A324</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-T-2hw-2025.01.14_00-14-58-+0300.xcresult</string>
+			<string>Run-T-2hw-2025.01.14_21-02-32-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -59,18 +59,18 @@
 			<key>signature</key>
 			<string>Run T-2hw</string>
 			<key>timeStartedRecording</key>
-			<real>758495698.34823096</real>
+			<real>758570552.09413302</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run T-2hw</string>
 			<key>uniqueIdentifier</key>
-			<string>0A805B8E-3377-4119-B96C-16E57E2CE6CA</string>
+			<string>1B7B569B-B09E-4EF6-ABA4-D83A246629A7</string>
 		</dict>
-		<key>15F51069-67AD-4BE0-8B33-B2DD69E0D3A2</key>
+		<key>331D3F81-3E8E-407F-92AE-88A48D68B09C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>0AB9C071-74A6-4044-B5B3-D798CBF0109E</string>
+			<string>7BE47AEA-159F-43E6-9C11-7E09A7FC67A0</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -91,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-T-2hw-2025.01.14_00-12-49-+0300.xcresult</string>
+			<string>Run-T-2hw-2025.01.14_22-12-16-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -120,18 +120,18 @@
 			<key>signature</key>
 			<string>Run T-2hw</string>
 			<key>timeStartedRecording</key>
-			<real>758495569.33346701</real>
+			<real>758574736.66584003</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run T-2hw</string>
 			<key>uniqueIdentifier</key>
-			<string>15F51069-67AD-4BE0-8B33-B2DD69E0D3A2</string>
+			<string>331D3F81-3E8E-407F-92AE-88A48D68B09C</string>
 		</dict>
-		<key>96C87846-AD08-4FEC-8959-6EB38D119BFF</key>
+		<key>4069D880-CA5B-48AB-986B-E8D95EF44046</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8CCE0240-D0AE-4BE8-B725-405AD0774A16</string>
+			<string>AF2683AC-3C55-4A88-9E5E-F37DF3C8B45A</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -152,7 +152,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-T-2hw-2025.01.14_00-14-33-+0300.xcresult</string>
+			<string>Run-T-2hw-2025.01.14_21-12-55-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -181,18 +181,18 @@
 			<key>signature</key>
 			<string>Run T-2hw</string>
 			<key>timeStartedRecording</key>
-			<real>758495673.87535298</real>
+			<real>758571175.94943297</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run T-2hw</string>
 			<key>uniqueIdentifier</key>
-			<string>96C87846-AD08-4FEC-8959-6EB38D119BFF</string>
+			<string>4069D880-CA5B-48AB-986B-E8D95EF44046</string>
 		</dict>
-		<key>C90F44F5-4AA7-4319-9E3E-3999CD6C2E4C</key>
+		<key>71650FBC-8177-4A98-AB8A-DF20169DFCC7</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C4600F23-C894-4B87-AD94-3DF1CC5F648F</string>
+			<string>83B9267D-1465-4697-90CD-418F9B939CD7</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -213,7 +213,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-T-2hw-2025.01.14_00-12-24-+0300.xcresult</string>
+			<string>Run-T-2hw-2025.01.14_00-15-23-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -242,18 +242,18 @@
 			<key>signature</key>
 			<string>Run T-2hw</string>
 			<key>timeStartedRecording</key>
-			<real>758495544.75469995</real>
+			<real>758495723.98362994</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run T-2hw</string>
 			<key>uniqueIdentifier</key>
-			<string>C90F44F5-4AA7-4319-9E3E-3999CD6C2E4C</string>
+			<string>71650FBC-8177-4A98-AB8A-DF20169DFCC7</string>
 		</dict>
-		<key>F41FA9F0-963F-4725-8B1B-CD25A18EEE32</key>
+		<key>8C7E6322-1822-4796-869C-8F7AB0E04BB3</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>CB478261-6336-4149-9510-37C960506510</string>
+			<string>0584D0D3-5CB1-4BE9-B8A6-2138649A55B4</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -274,7 +274,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-T-2hw-2025.01.14_00-09-44-+0300.xcresult</string>
+			<string>Run-T-2hw-2025.01.14_21-03-32-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -303,13 +303,13 @@
 			<key>signature</key>
 			<string>Run T-2hw</string>
 			<key>timeStartedRecording</key>
-			<real>758495384.15563595</real>
+			<real>758570612.45966101</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run T-2hw</string>
 			<key>uniqueIdentifier</key>
-			<string>F41FA9F0-963F-4725-8B1B-CD25A18EEE32</string>
+			<string>8C7E6322-1822-4796-869C-8F7AB0E04BB3</string>
 		</dict>
 	</dict>
 </dict>
